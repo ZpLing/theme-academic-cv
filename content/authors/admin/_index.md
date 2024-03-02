@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student & Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zipeng Ling is currently an undergraduate student at Nanjing University of Post and Telecommunication. His research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
 {style="text-align: justify;"}
