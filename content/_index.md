@@ -111,43 +111,43 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: contact
-    id: contact
-    content:
-      email: zpling0816@gmail.com
-      address:
-        street: Wen Yuan Road
-        city: Suzhou
-        region: Jiangsu
-        country: China
-        country_code: CN
-      directions: I am always studying at Building 1!
-      office_hours:
-        - 'And I am Always Working!'
-
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+#  - block: contact
+#    id: contact
+#    content:
+#      email: zpling0816@gmail.com
+#      address:
+#        street: Wen Yuan Road
+#        city: Suzhou
+#        region: Jiangsu
+#        country: China
+#        country_code: CN
+#      directions: I am always studying at Building 1!
+#      office_hours:
+#        - 'And I am Always Working!'
+#
+#      # Choose a map provider in `params.yaml` to show a map from these coordinates
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'skype:echo123?call'
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: 'https://zoom.com'
+#      # Automatically link email and phone or display as text?
+#      autolink: true
+#      # Email form provider
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: false
+#    design:
+#      columns: '2'
 ---
