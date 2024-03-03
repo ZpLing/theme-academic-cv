@@ -166,4 +166,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://docs.hugoblox.com/content/slides/)
+[Documentation](https://github.com/ZpLing/MCM/blob/main/MCM%20Paper.pdf)
