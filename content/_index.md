@@ -93,10 +93,27 @@ sections:
         postcode: '94305'
         country: China
         country_code: CN
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+<!--  - block: portfolio-->
+<!--    id: projects-->
+<!--    content:-->
+<!--      title: Projects-->
+<!--      filters:-->
+<!--        folders:-->
+<!--          - project-->
+<!--      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).-->
+<!--      default_button_index: 0-->
+<!--      # Filter toolbar (optional).-->
+<!--      # Add or remove as many filters (`filter_button` instances) as you like.-->
+<!--      # To show all items, set `tag` to "*".-->
+<!--      # To filter by a specific tag, set `tag` to an existing tag name.-->
+<!--      # To remove the toolbar, delete the entire `filter_button` block.-->
+<!--      buttons:-->
+<!--        - name: All-->
+<!--          tag: '*'-->
+<!--        - name: Deep Learning-->
+<!--          tag: Deep Learning-->
+<!--        - name: Other-->
+<!--          tag: Demo-->
       # Choose a map provider in `params.yaml` to show a map from these coordinates
         - icon: twitter
           icon_pack: fab
