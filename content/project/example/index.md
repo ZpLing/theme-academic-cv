@@ -1,6 +1,6 @@
 ---
 title: A Feature Base Approach to Analyzing Word Complexity 
-summary: An example of using the in-built project page.
+summary: The Starting Point of My AI Journey.
 tags:
   - Machine Learning
 date: '2016-04-27T00:00:00Z'

@@ -117,20 +117,19 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I LOVE working with intelligent minds!
       # Contact (add or remove contact options as necessary)
       email: zpling0816@gmail.com
       address:
         street: Wen Yuan Road
         city: Suzhou
         region: Jiangsu
-        postcode: '94305'
         country: China
         country_code: CN
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: I am always studying at Building 1!
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'And I am Always Working!'
+
       # Choose a map provider in `params.yaml` to show a map from these coordinates
         - icon: twitter
           icon_pack: fab
