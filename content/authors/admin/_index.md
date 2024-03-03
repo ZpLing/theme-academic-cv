@@ -35,9 +35,9 @@ interests:
 
 education:
   courses:
-    - course: B.Eng in Telecommunication
+    - course: B.Eng in Telecommunication Engineering
       institution: Nanjing University of Post and Telecommunication
-      year: 2021.Sep - 2025.June
+      year: 2021 - 2025
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

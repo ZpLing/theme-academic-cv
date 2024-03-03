@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: A Feature Base Approach to Analyzing Word Complexity 
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Machine Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
