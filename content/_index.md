@@ -57,7 +57,7 @@ sections:
         - title: Research Intern
           company: Southeast University, School of Computer Science and Engineering
           company_url: 'https://cs.seu.edu.cn/'
-          company_logo: org-s
+          company_logo: org-gc
           location: Nanjing, Jiangsu
           date_start: '2023-07-13'
           date_end: ''
@@ -71,7 +71,7 @@ sections:
           company: Robert Bosch
           company_url: 'https://www.bosch.com/'
           company_logo: org-x
-          location: Sushou, Jaingsu
+          location: Suzhou, Jaingsu
           date_start: '2023-09-28'
           date_end: '2023-06-02'
           description: Participate In the Development of Auto-Parking System of Mercedes-Benz.
