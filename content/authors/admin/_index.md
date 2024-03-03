@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student & Researcher
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,12 +30,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Human-Computer Interaction
-  - Computational Linguistics
-  - Graph Learning
+  - Deep Learning
+  - Machine Learning
 
 education:
   courses:
-    - course: Bsc in Telecommunication
+    - course: B.Eng in Telecommunication
       institution: Nanjing University of Post and Telecommunication
       year: 2021.Sep - 2025.June
 # Social/Academic Networking
@@ -65,3 +65,4 @@ highlight_name: true
 
 Welcome to my website! I am currently an undergraduate student at Nanjing University of Post and Telecommunication. My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
 {style="text-align: justify;"}
+
