@@ -15,7 +15,7 @@ slides:
 
 # Create slides in Markdown with Hugo Blox Builder
 
-[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
+[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://github.com/ZpLing/MCM/blob/main/MCM%20Paper.pdf)
 
 ---
 

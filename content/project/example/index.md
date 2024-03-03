@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://github.com/ZpLing/MCM/blob/main/MCM%20Paper.pdf'
 url_slides: ''
 url_video: ''
 
