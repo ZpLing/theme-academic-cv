@@ -46,12 +46,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ZpLing?tab=repositories
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/ZpLing?tab=repositories
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -63,5 +63,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am currently an undergraduate student at Nanjing University of Post and Telecommunication. My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
+Welcome to my website! I am Zipeng Ling, and I am currently an undergraduate student at Nanjing University of Post and Telecommunication. My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
 {style="text-align: justify;"}

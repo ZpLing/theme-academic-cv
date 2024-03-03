@@ -79,9 +79,9 @@ sections:
           company_url: 'https://www.bosch.com/'
       #  company_logo: org-x
           location: Suzhou, Jaingsu
-          date_start: '2023-09-28'
-          date_end: '2023-06-02'
-          description: Participate In the Development of Auto-Parking System of Mercedes-Benz.
+          date_start: '2023-06-02'
+          date_end: '2023-09-28'
+          description: I Participated In the Development of Auto-Parking System of Mercedes-Benz.
     design:
       columns: '2'
   - block: portfolio
