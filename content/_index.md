@@ -114,11 +114,6 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
-      text: |-
-        I LOVE working with intelligent minds!
-      # Contact (add or remove contact options as necessary)
       email: zpling0816@gmail.com
       address:
         street: Wen Yuan Road
