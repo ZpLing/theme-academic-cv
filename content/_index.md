@@ -54,7 +54,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern
+        - title: AI Research Intern
+          company: University of Massachusetts Boston, Department of Computer Science
+          company_url: 'https://www.umb.edu'
+      #  company_logo: org-gc
+          location: Remote
+          date_start: '2024-01-18'
+          date_end: ''
+        - title: HCI Research Intern
           company: Southeast University, School of Computer Science and Engineering
           company_url: 'https://cs.seu.edu.cn/'
       #  company_logo: org-gc
