@@ -43,9 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto: zpling0816@gmail.com"
+#  - icon: envelope
+#    icon_pack: fas
+#    link: "mailto: zpling0816@gmail.com"
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
