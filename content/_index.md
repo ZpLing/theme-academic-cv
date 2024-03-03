@@ -61,12 +61,12 @@ sections:
           location: Nanjing, Jiangsu
           date_start: '2023-07-13'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#          description: |2-
+#              Responsibilities include:
+#
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Testing Engineer Intern
           company: Robert Bosch
           company_url: 'https://www.bosch.com/'

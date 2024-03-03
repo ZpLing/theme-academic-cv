@@ -30,8 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Human-Computer Interaction
-  - Deep Learning
   - Machine Learning
+  - Deep Learning
 
 education:
   courses:
