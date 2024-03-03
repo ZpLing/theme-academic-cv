@@ -78,7 +78,7 @@ sections:
           company: Robert Bosch, Cross-Domain Computing Solutions Department
           company_url: 'https://www.bosch.com/'
       #  company_logo: org-x
-          location: Suzhou, Jaingsu
+          location: Suzhou, Jiangsu
           date_start: '2023-06-02'
           date_end: '2023-09-28'
           description: I Participated In the Development of Auto-Parking System of Mercedes-Benz.
