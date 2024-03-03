@@ -75,7 +75,7 @@ sections:
 #              * Modelling
 #              * Deploying
         - title: Testing Engineer Intern
-          company: Robert Bosch
+          company: Robert Bosch, Cross-Domain Computing Solutions Department
           company_url: 'https://www.bosch.com/'
       #  company_logo: org-x
           location: Suzhou, Jaingsu
@@ -103,8 +103,8 @@ sections:
           tag: '*'
         - name: Machine Learning
           tag: Machine Learning
-        - name: Other
-          tag: Demo
+#        - name: Other
+#          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
