@@ -105,7 +105,6 @@ sections:
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # Choose a map provider in `params.yaml` to show a map from these coordinates
         - icon: twitter
           icon_pack: fab
