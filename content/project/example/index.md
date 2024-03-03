@@ -1,5 +1,5 @@
 ---
-title: A Feature Base Approach to Analyzing Word Complexity 
+title: A Feature-Based Approach to Analyzing Word Complexity 
 summary: The Starting Point of My AI Journey.
 tags:
   - Machine Learning
