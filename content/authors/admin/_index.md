@@ -62,5 +62,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am Zipeng Ling, and I am currently an undergraduate student at Nanjing University of Post and Telecommunication, where my research began under the supervision of [Zhuying Li](https://zhuyingli.info/). Besides, I am also luckily advised by [Shichao Pei](https://scpei.github.io/). My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. Feel free to email me (zpling0816@gmail.com) if you're interested in working with me! 
+Welcome to my website! I am Zipeng Ling, and I am currently an undergraduate student at Nanjing University of Post and Telecommunication, where my research began under the supervision of [Zhuying Li](https://zhuyingli.info/). Besides, I am also luckily advised by [Shichao Pei](https://scpei.github.io/)， who helps me discover my strong passion for AI-related field. My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. Feel free to email me (zpling0816@gmail.com) if you're interested in working with me! 
 {style="text-align: justify;"}
