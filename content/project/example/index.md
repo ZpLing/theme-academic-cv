@@ -1,5 +1,5 @@
 ---
-title: A Feature Base Approach to Analyzing Word Complexity 
+~~~~title: A Feature Base Approach to Analyzing Word Complexity 
 summary: The Starting Point of My AI Journey.
 tags:
   - Machine Learning
@@ -21,7 +21,7 @@ url_video: ''
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+#   Otherwise, set `slides = ""`.~~~~
 
 
 ---
