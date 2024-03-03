@@ -64,22 +64,21 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Leagues of Legends
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Eating
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Eating
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -93,7 +92,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ZpLing?tab=repositories
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -105,5 +104,5 @@ social:
 highlight_name: true
 ---
 
-Zipeng Ling is currently an undergraduate student at Nanjing University of Post and Telecommunication. His research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
+Welcome to my website! I am currently an undergraduate student at Nanjing University of Post and Telecommunication. My research interests include Human-Computer Interaction(HCI), Machine Learning and Deep Learning. 
 {style="text-align: justify;"}
