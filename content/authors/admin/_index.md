@@ -25,7 +25,7 @@ organizations:
     url: https://jwc.njupt.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human-Computer Interaction, Machine Learning and Deep Learning.
 
 # Interests to show in About widget
 interests:
